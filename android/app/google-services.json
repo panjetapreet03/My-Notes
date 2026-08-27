@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81440087610",
+    "project_id": "mynotes-flutter-project-preet",
+    "storage_bucket": "mynotes-flutter-project-preet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81440087610:android:3043953385627e0dcd5f03",
+        "android_client_info": {
+          "package_name": "com.notes.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDIKr_FdLKJXSlTsjDKQTMl_GUdvNU5YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
